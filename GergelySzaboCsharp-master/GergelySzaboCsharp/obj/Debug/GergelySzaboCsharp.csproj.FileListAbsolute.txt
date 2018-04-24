@@ -1,0 +1,30 @@
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.exe.config
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.exe
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.pdb
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csprojResolveAssemblyReference.cache
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.Form1.resources
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.Properties.Resources.resources
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csproj.GenerateResource.Cache
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csproj.CoreCompileInputs.cache
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.exe
+C:\Users\danny\Documents\BI releterade programspråk\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.pdb
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.exe.config
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.exe
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.pdb
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csprojResolveAssemblyReference.cache
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.Form1.resources
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.Properties.Resources.resources
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csproj.GenerateResource.Cache
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csproj.CoreCompileInputs.cache
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.exe
+C:\Users\danny\Documents\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.pdb
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.exe.config
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.exe
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\bin\Debug\GergelySzaboCsharp.pdb
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csprojResolveAssemblyReference.cache
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.Form1.resources
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.Properties.Resources.resources
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csproj.GenerateResource.cache
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.csproj.CoreCompileInputs.cache
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.exe
+C:\Users\danny\Documents\Leo\BI releterade programspråk Leo\C#\Gergely inlamning 2\GergelySzaboCsharp-master\GergelySzaboCsharp\obj\Debug\GergelySzaboCsharp.pdb
